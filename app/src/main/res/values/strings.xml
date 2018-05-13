@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Close2Me</string>
+    <string name="title_activity_map">Map</string>
+    <string name="accept">Aceptar</string>
+    <string name="permissions_needed_title">Se necesitan permisos</string>
+    <string name="retry">Reintentar</string>
+    <string name="location_permissions_explained">"Milka App necesita acceder a tu ubicación para que puedas descubrir experiencias a tu alrededor"</string>
+    <string name="location_permissions_explained_stop_ask">"Milka App necesita tener acceso a tu ubicación desde configuración del dispositivo"</string>
+</resources>

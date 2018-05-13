@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635874952878",
+    "firebase_url": "https://close2me-68be8.firebaseio.com",
+    "project_id": "close2me-68be8",
+    "storage_bucket": "close2me-68be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635874952878:android:583a641a756745a1",
+        "android_client_info": {
+          "package_name": "com.inquiet.close2me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635874952878-lo3260lqrnf21a08jcgollt29vbfcarv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEDrNX4RsrO4I6aCmYIk3Mf0wumQnPUGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
